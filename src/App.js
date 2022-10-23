@@ -2,7 +2,7 @@ import "./App.css";
 import "./css/styles.css";
 import Sidebar from "./Sidebar";
 import Topbar from "./Topbar";
-import "https://use.fontawesome.com/releases/v6.1.0/js/all.js";
+// import "https://use.fontawesome.com/releases/v6.1.0/js/all.js";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Dashboard from "./Dashboard";
 import Footer from "./Footer";
